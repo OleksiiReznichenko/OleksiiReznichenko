@@ -7,7 +7,5 @@ Between 2021 and 2024, I worked on 15+ client projects, mainly using TypeScript,
 
 I'm now expanding into backend and cloud development, with university projects in Java, Python, FastAPI and PostgreSQL. Currently learning C#, .NET and Azure.
 
-**Currently building:** [FlowOps Lite](https://github.com/OleksiiReznichenko/flowops-lite) - an early-stage full-stack project using ASP.NET Core, Next.js and PostgreSQL.
-
 **Open to:** Part-time developer positions and Summer 2027 internships in Oslo.
 
