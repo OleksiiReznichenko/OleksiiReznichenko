@@ -11,4 +11,3 @@ I'm now expanding into backend and cloud development, with university projects i
 
 **Open to:** Part-time developer positions and Summer 2027 internships in Oslo.
 
-[Portfolio](https://oleksiireznichenko.com) · [LinkedIn](https://linkedin.com/in/oleksiireznichenko/)
